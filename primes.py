@@ -16,9 +16,10 @@ def primes(number_of_primes):
 
     list = []
 
-    candidate = 1
+    candidate = 2
 
     while len(list) < number_of_primes:
+
 
         prime = True
 
