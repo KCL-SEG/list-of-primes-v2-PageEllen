@@ -36,7 +36,7 @@ def primes(number_of_primes):
 
         if prime == True:
 
-            list.add(candidate)
+            list.append(candidate)
 
         candidate += 1
 
